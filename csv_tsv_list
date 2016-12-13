@@ -1,0 +1,13 @@
+./data/titanic.csv
+./data/imdb_1000.csv
+./data/yelp.csv
+./data/airlines.csv
+./data/ufo.csv
+./data/bikeshare.csv
+./data/bank-additional.csv
+./data/sms.tsv
+./data/vehicles_test.csv
+./data/hitters.csv
+./data/vehicles_train.csv
+./data/drinks.csv
+./data/chipotle.tsv
